@@ -14,7 +14,7 @@ Astroid enables seamless integration of Discord, Guilded, Nerimity, and Revolt s
 - [API](https://api.astroid.cc)
 - [API Docs](https://docs.astroid.cc)
 - [Status](https://astroid.cc/status)
-- [Dashboard (Beta only)](https://astroid.cc/dashboard)
+- [Dashboard (Beta only)](https://orbithub.astroid.cc)
 
 ## Support
 Astroids support can be found on each platform Astroid supports out of the box. Our main support servers are our [Discord Server](https://discord.com/invite/zrES6Ve6Qw) and our [Nerimity Server](https://nerimity.com/i/fgE6q)
